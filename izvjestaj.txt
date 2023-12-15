@@ -1,0 +1,2 @@
+Kao personalizirani element vježbe sam dodao novi font na sve ispise i boju pozadine,
+isto tako sam na garbage dodao teksturu kako nebi bio nevidljiv.
